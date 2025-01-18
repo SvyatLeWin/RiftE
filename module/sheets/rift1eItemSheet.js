@@ -8,4 +8,3 @@ export default class rift1eItemSHeet extends ItemSheet{
         return data;
     }
 }
-//ffsdfsdffdsf
