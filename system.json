@@ -1,0 +1,22 @@
+{
+    "name":"Rift1e",
+    "title": "Rift custom game",
+    "description":"A system for playng NV author setting",
+    "author":"NV",
+    "version": 0.01,
+    "minimumCoreVersion": "0.6.4",
+    "compatibleCoreVersion": "0.6.4",
+    "esmodules": [
+        "rift1e.js"
+    ],
+    "styles":[
+        "rift1e.css"
+    ],
+    "languages":[
+
+    ],
+    "griddistance": 1,
+    "gridunits": "м",
+    "primaryTokenAttribute":"pta",
+    "initiative": "@Perception"
+}
