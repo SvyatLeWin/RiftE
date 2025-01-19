@@ -1,11 +1,13 @@
 {
-    "name":"Rift1e",
+    "id":"rift1e",
     "title": "Rift custom game",
     "description":"A system for playng NV author setting",
     "author":"NV",
     "version": 0.01,
-    "minimumCoreVersion": "0.6.4",
-    "compatibleCoreVersion": "0.6.4",
+    "compatibility": {
+        "minimum": 12,
+        "verified": 12
+        },
     "esmodules": [
         "rift1e.js"
     ],
@@ -27,5 +29,8 @@
     "griddistance": 1,
     "gridunits": "м",
     "primaryTokenAttribute":"pta",
-    "initiative": "@Perception"
+    "initiative": "@Perception",
+    "url": "https://github.com/SvyatLeWin/RiftE.git",
+    "manifest": "https://github.com/SvyatLeWin/RiftE/blob/main/system.json"
+
 }

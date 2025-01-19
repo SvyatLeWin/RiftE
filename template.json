@@ -28,7 +28,12 @@
             "reload":0,
             "bolt":0,
             "magazine":0,
-            "contact":false
+            "contact":false,
+            "reliable":false,
+            "throwing":0,
+            "stationary":false,
+            "scratch":0,
+            "assault":0
 
 
         }

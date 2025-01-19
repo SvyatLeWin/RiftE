@@ -22,7 +22,12 @@
             "reload":"Reaload",
             "bolt":"Bolt",
             "magazine":"Magazine",
-            "contact":"Contact"
+            "contact":"Contact",
+            "reliable":"Reliable",
+            "throwing":"Throwing",
+            "stationary":"Stationary",
+            "scratch":"Scratch",
+            "assault":"Assault"
         }
     }
 }
